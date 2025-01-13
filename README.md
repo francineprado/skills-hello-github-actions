@@ -2,7 +2,7 @@
 
 # Hello GitHub Actions
 
-Vamos fazer o teste da esteira. :EMOJICODE😄
+Vamos fazer o teste da esteira. 🧡🧡
 
 _Create and run a GitHub Actions workflow._
 
