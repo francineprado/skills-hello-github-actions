@@ -2,6 +2,8 @@
 
 # Hello GitHub Actions
 
+Vamos fazer o teste da esteira. :EMOJICODE😄
+
 _Create and run a GitHub Actions workflow._
 
 </header>
